@@ -14,6 +14,7 @@ i also do this when im not doing any of the following:
 - lifting
 - microsoft flight sim
 - hating on windows
+- drinking more coffee because more espresso, less depresso
 
 # experience & skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,linux,cloudflare,docker,fastapi,nextjs,ps,raspberrypi,redhat,sqlite,ts,markdown,pycharm)](https://skillicons.dev)
