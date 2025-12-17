@@ -42,7 +42,7 @@ i currently daily drive Linux for all development purposes, a bit of gaming and 
     <td><a href="https://discord.com/users/998819061817413652"><img src="https://skillicons.dev/icons?i=discord" /></a></td>
     <td><a href="https://github.com/linuxlarp"><img src="https://skillicons.dev/icons?i=github" /></a></td>
     <td><a href="https://twitter.com/linuxlarp"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
-    <td><a href="https://tiktok.com/linuxlarper"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F042%2F127%2F139%2Flarge_2x%2Fsquare-tiktok-logo-on-a-transparent-background-free-png.png&f=1&nofb=1&ipt=1c1c425ed784ed324ee926d443b3f4548573f0e0bde92b4b2338d7651bb39d49" width="128" height="128" /></a></td>
+    <td><a href="https://tiktok.com/linuxlarper"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F042%2F127%2F139%2Flarge_2x%2Fsquare-tiktok-logo-on-a-transparent-background-free-png.png&f=1&nofb=1&ipt=1c1c425ed784ed324ee926d443b3f4548573f0e0bde92b4b2338d7651bb39d49" width="300" height="300" /></a></td>
   </tr>
 </table>
 
@@ -60,5 +60,4 @@ you should check out these things I've made!
 
 </details>
 
-![chud](https://github.com/linuxlarp/linuxlarp/blob/main/i%20hate%20data.jpg)
 <img src="https://github.com/linuxlarp/linuxlarp/blob/main/i%20hate%20data.jpg" height="256" width="256"/>
