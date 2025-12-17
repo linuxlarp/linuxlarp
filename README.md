@@ -27,8 +27,34 @@ im also a Right to Privacy advocate *(from large coporations and goverement)* an
 # about me (linux exp)
 i currently daily drive Linux for all development purposes, a bit of gaming and overally my main use of the computer *(i use arch btw or whatever they say)*
 
-- **Distro**: CachyOS
-- **Deskop Environment (DE)**: KDE Plasma 6
+- **Distro**: [CachyOS](<https://cachyos.org/>)
+- **Deskop Environment (DE)**: [KDE Plasma 6](<https://kde.org/plasma-desktop/>)
 - **Window Manager (WM):** KWin (Wayland)
-- **Terminal**: Alacritty
-- **Shell**: fish
+- **Terminal**: [Alacritty](<https://alacritty.org/>)
+- **Shell**: [fish](<https://fishshell.com/>)
+
+# socials
+> disclaimer: ALL OPINIONS ARE MY OWN, AND ARE NOT CONTROLLED BY CORPORATE INTEREST OR ANY OVERSEEING AUTHORITY
+
+<table align="center">
+  <tr>
+    <td><a href="https://discord.com/users/998819061817413652"><img src="https://skillicons.dev/icons?i=discord" /></a></td>
+    <td><a href="https://github.com/linuxlarp"><img src="https://skillicons.dev/icons?i=github" /></a></td>
+    <td><a href="https://twitter.com/linuxlarp"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
+    <td><a href="https://tiktok.com/linuxlarper"><img src="https://skillicons.dev/icons?i=tiktok" /></a></td>
+  </tr>
+</table>
+
+# project highlights!
+> none yet, check back later!
+
+# gitHub statisics
+
+<details>
+<summary><h2>github stats</h2></summary>
+
+![](https://github-readme-stats.vercel.app/api?username=linuxlarp&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=linuxlarp&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxlarp&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</details>
