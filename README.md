@@ -16,7 +16,7 @@ i also do this when im not doing any of the following:
 - hating on windows
 
 # experience & skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,linux,cloudflare,docker,fastapi,nextjs,ps,raspberrypi,redhat,sqlite,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,linux,cloudflare,docker,fastapi,nextjs,ps,raspberrypi,redhat,sqlite,ts,markdown,pycharm)](https://skillicons.dev)
 
 
 # reach me (contact)
@@ -33,6 +33,19 @@ i currently daily drive Linux for all development purposes, a bit of gaming and 
 - **Window Manager (WM):** KWin (Wayland)
 - **Terminal**: [Alacritty](<https://alacritty.org/>)
 - **Shell**: [fish](<https://fishshell.com/>)
+
+**other experience 😋**
+with my TikTok (listed below), i began engaging in the community of linux on the platform and gained the name Linuxlarper, for those who dont know, a larp in cybersec is someone who takes their job or their purpose wayyyy too seriously, and is generally annoying about it (my definition of it),
+overall, I've gained around 50k+ likes and 400k+ views from just posting larping and a **bit of** political content, i just generally make fun of other distros and users of said distros
+
+**my distro progession**
+- i started out on ZorinOS with a crappy laptop, learned a bit of skills and how to use the terminal
+- then i began using linux on severs in the cloud and learning a lot of networking, devops and skills from there
+- next, got a raspberry pi and really got into homelabbing and selfhosting with running programs, discord bots and more using docker, systemd and python on the debian platform for linux
+- then i fully made the switch to linux from windows being my daily drive, i started out with Pop!_OS, then went to Fedora COSMIC, Fedora KDE and now CachyOS KDE
+- and im currently daily driving CachyOS, and i use debian o my homelab
+
+in basic sequence: Windows -> Linux on the Server -> Raspberry Pi -> Pop!_OS -> Fedora Linux (KDE/COSMIC DE) -> CachyOS (KDE DE)
 
 # socials
 > disclaimer: ALL OPINIONS ARE MY OWN, AND ARE NOT CONTROLLED BY CORPORATE INTEREST OR ANY OVERSEEING AUTHORITY
