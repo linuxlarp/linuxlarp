@@ -63,8 +63,8 @@ in basic sequence: Windows -> Linux on the Server -> Raspberry Pi -> Pop!_OS -> 
 # project highlights
 you should check out these things I've made!
 
-- [https://github.com/linuxlarp/HourlyPetsTwitter](Hourly Pets)
-- [https://github.com/linuxlarp/ERLCBotExample](Nextcord ERLC Bot Example)
+- [Hourly Pets](https://github.com/linuxlarp/HourlyPetsTwitter)
+- [Nextcord Bot Example (ERLC Private Servers)](https://github.com/linuxlarp/ERLCBotExample)
 
 <details>
 <summary><h2>github stats</h2></summary>
