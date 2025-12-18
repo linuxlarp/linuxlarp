@@ -46,7 +46,7 @@ overall, I've gained around 50k+ likes and 400k+ views from just posting larping
 - then i fully made the switch to linux from windows being my daily drive, i started out with Pop!_OS, then went to Fedora COSMIC, Fedora KDE and now CachyOS KDE
 - and im currently daily driving CachyOS, and i use debian o my homelab
 
-in basic sequence: Windows -> Linux on the Server -> Raspberry Pi -> Pop!_OS -> Fedora Linux (KDE/COSMIC DE) -> CachyOS (KDE DE)
+in basic sequence: Windows -> Linux on the Server -> Raspberry Pi -> Pop!_OS -> Fedora Linux (KDE Plasma/COSMIC DE) -> CachyOS (KDE Plasma)
 
 # socials
 > disclaimer: ALL OPINIONS ARE MY OWN, AND ARE NOT CONTROLLED BY CORPORATE INTEREST OR ANY OVERSEEING AUTHORITY
