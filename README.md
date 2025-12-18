@@ -3,6 +3,11 @@
 # linuxlarper
 hello there, my name is linuxlarper
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/998819061817413652?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/998819061817413652)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/998819061817413652)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/998819061817413652)](https://dev.discordprofiles.me/openspotify/998819061817413652)
+
 im 15, a self-taught dev and aviation enthusiast working on my [Private Pilots License (PPL)](<https://atpflightschool.com/become-a-pilot/flight-training/private-pilot-license.html>), currently in dual-credit aviation classes for highschool at a local college
 
 i build stuff for Roblox, Discord and social media platforms, I love tinkering with Linux *(CachyOS KDE)*, homelabbing on my pi5 & dell optiplex 7010
