@@ -7,7 +7,7 @@ im 15, a self-taught dev and aviation enthusiast working on my [Private Pilots L
 
 i build stuff for Roblox, Discord and social media platforms, I love tinkering with Linux *(CachyOS KDE)*, homelabbing on my pi5 & dell optiplex 7010
 
-im also a Right to Privacy advocate *(from large coporations and goverement)* and FOSS enthusiast and self-hosting & homelabbing geek 
+im also a Right to Privacy advocate *(from large coporations and government)* and FOSS enthusiast and self-hosting & homelabbing geek 
 
 i also do this when im not doing any of the following:
 - studying
