@@ -1,4 +1,4 @@
-![Logo](https://github.com/linuxlarp/linuxlarp/blob/main/IMG_3893-removebg-preview.png)
+<img src="https://github.com/linuxlarp/linuxlarp/blob/main/IMG_3893-removebg-preview.png" height="256" width="256"/>
 
 # linuxlarper
 hello there, my name is linuxlarper
