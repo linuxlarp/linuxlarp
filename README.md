@@ -35,6 +35,8 @@ i currently daily drive Linux for all development purposes, a bit of gaming and 
 - **Terminal**: [Alacritty](<https://alacritty.org/>)
 - **Shell**: [fish](<https://fishshell.com/>)
 
+![](https://github.com/linuxlarp/linuxlarp/blob/main/rice%202.png)
+
 **other experience 😋**
 with my TikTok (listed below), i began engaging in the community of linux on the platform and gained the name Linuxlarper, for those who dont know, a larp in cybersec is someone who takes their job or their purpose wayyyy too seriously, and is generally annoying about it (my definition of it),
 overall, I've gained around 50k+ likes and 400k+ views from just posting larping and a **bit of** political content, i just generally make fun of other distros and users of said distros
