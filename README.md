@@ -21,8 +21,12 @@ i also do this when im not doing any of the following:
 
 
 # reach me (contact)
-[<img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40">](https://discord.com/users/998819061817413652)
-[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40">](mailto:larp@linuxlarp.dev)
+<table align="center">
+  <tr>
+    <td><a href="https://discord.com/users/998819061817413652"><img src="https://skillicons.dev/icons?i=discord" /></a></td>
+    <td><a href="mailto:larp@linuxlarp.dev"><img src="https://cdn.simpleicons.org/gmail/EA4335/white" width="48" height="48" /></a></td>
+  </tr>
+</table>
 
 # about me (linux exp)
 i currently daily drive Linux for all purposes, i use it for gaming, coding, and a bunch of other stuff *(i use arch btw or whatever they say)*
