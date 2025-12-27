@@ -21,10 +21,8 @@ i also do this when im not doing any of the following:
 
 
 # reach me (contact)
-
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/998819061817413652)
-
-**no emails yet, coming soon to a github near you**
+[<img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40">](https://discord.com/users/998819061817413652)
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40">](mailto:larp@linuxlarp.dev)
 
 # about me (linux exp)
 i currently daily drive Linux for all purposes, i use it for gaming, coding, and a bunch of other stuff *(i use arch btw or whatever they say)*
