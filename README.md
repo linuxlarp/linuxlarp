@@ -27,15 +27,17 @@ i also do this when im not doing any of the following:
 **no emails yet, coming soon to a github near you**
 
 # about me (linux exp)
-i currently daily drive Linux for all development purposes, a bit of gaming and overally my main use of the computer *(i use arch btw or whatever they say)*
+i currently daily drive Linux for all purposes, i use it for gaming, coding, and a bunch of other stuff *(i use arch btw or whatever they say)*
+for my main desktop, i use CachyOS an arch based distro mainly due to its NVIDIA compatibility and its performance, and vanilla Arch on my Thinkpad X1 Carbon (7th gen)
 
-- **Distro**: [CachyOS](<https://cachyos.org/>)
+- **Distro**: [CachyOS](<https://cachyos.org/>) & [Arch Linux](<https://archlinux.ogr>)
 - **Deskop Environment (DE)**: [KDE Plasma 6](<https://kde.org/plasma-desktop/>)
 - **Window Manager (WM):** KWin (Wayland)
 - **Terminal**: [Alacritty](<https://alacritty.org/>)
 - **Shell**: [fish](<https://fishshell.com/>)
 
 ![](https://github.com/linuxlarp/linuxlarp/blob/main/rice%202.png)
+![](https://github.com/linuxlarp/linuxlarp/blob/main/rice1.png)
 
 **other experience 😋**
 with my TikTok (listed below), i began engaging in the community of linux on the platform and gained the name Linuxlarper, for those who dont know, a larp in cybersec is someone who takes their job or their purpose wayyyy too seriously, and is generally annoying about it (my definition of it),
@@ -45,10 +47,10 @@ overall, I've gained around 50k+ likes and 400k+ views from just posting larping
 - i started out on ZorinOS with a crappy laptop, learned a bit of skills and how to use the terminal
 - then i began using linux on severs in the cloud and learning a lot of networking, devops and skills from there
 - next, got a raspberry pi and really got into homelabbing and selfhosting with running programs, discord bots and more using docker, systemd and python on the debian platform for linux
-- then i fully made the switch to linux from windows being my daily drive, i started out with Pop!_OS, then went to Fedora COSMIC, Fedora KDE and now CachyOS KDE
-- and im currently daily driving CachyOS, and i use debian o my homelab
+- then i fully made the switch to linux from windows being my daily drive, i started out with Pop!_OS, then went to Fedora COSMIC, Fedora KDE and now CachyOS KDE and Arch Linux KDE
+- and im currently daily driving CachyOS, Arch Linux on my Thinkpad and Debian for my homela
 
-in basic sequence: Windows -> Linux on the Server -> Raspberry Pi -> Pop!_OS -> Fedora Linux (KDE Plasma/COSMIC DE) -> CachyOS (KDE Plasma)
+in basic sequence: Windows -> ZorinOS -> Linux on the Server -> Raspberry Pi -> Pop!_OS -> Fedora Linux (KDE Plasma/COSMIC DE) -> CachyOS (KDE Plasma) & Arch Linux
 
 # socials
 > disclaimer: ALL OPINIONS ARE MY OWN, AND ARE NOT CONTROLLED BY CORPORATE INTEREST OR ANY OVERSEEING AUTHORITY
